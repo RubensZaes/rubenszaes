@@ -1,6 +1,6 @@
 ### Oi, eu o RubensZaes!
 
-- 👨‍💻 Atualmente trabalhando com Analista de Sistemas - SEFAZ/PI
+- 👨‍💻 Atualmente trabalhando como Analista de Sistemas - SEFAZ/PI
 - 🖥️ Estudando Java/SpringBoot
 
 <div>
