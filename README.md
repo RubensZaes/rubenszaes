@@ -1,4 +1,4 @@
-### Oi, eu o RubensZaes!
+### Oi, eu sou o RubensZaes!
 
 - 👨‍💻 Analista de Sistemas - SEFAZ/PI
 - 🖥️ Front-End Developer
