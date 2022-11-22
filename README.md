@@ -1,7 +1,8 @@
 ### Oi, eu sou o RubensZaes!
 
 - 👨‍💻 Analista de Sistemas - SEFAZ/PI
-- 🖥️ Front-End Developer
+- 🖥️ Back-End Developer (SpringBoot / Java)
+- 🖥️ Front-End Developer (Vue.js / JavaScript)
 
 <div>
   <a href="https://github.com/rubenszaes">
