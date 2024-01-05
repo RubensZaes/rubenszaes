@@ -1,6 +1,6 @@
 ### Oi, eu sou o RubensZaes!
 
-- 👨‍💻 Analista de Sistemas - UFC - Campus Crateús
+- 👨‍💻 Analista de Sistemas - Truly - SEFAZ-PI
 - 🖥️ Back-End Developer (SpringBoot / Java)
 - 🖥️ Front-End Developer (Vue.js / JavaScript)
 
