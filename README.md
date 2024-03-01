@@ -1,6 +1,6 @@
 ### Oi, eu sou o RubensZaes!
 
-- 👨‍💻 Analista de Sistemas - Truly - SEFAZ-PI
+- 👨‍💻 Analista de Sistemas - Banco do Nordestre do Brasil
 - 🖥️ Back-End Developer (SpringBoot / Java)
 - 🖥️ Front-End Developer (Vue.js / JavaScript)
 
